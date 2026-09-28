@@ -2,6 +2,10 @@
 
 Front-end do [PhysioManage](https://github.com/guirodriguesxz/physiomanage), um SaaS multi-tenant para clínicas de fisioterapia.
 
+> **Demo ao vivo:** [physiomanage-web.vercel.app](https://physiomanage-web.vercel.app) · código da API em [physiomanage](https://github.com/guirodriguesxz/physiomanage) · API em [physiomanage-api.onrender.com](https://physiomanage-api.onrender.com/swagger-ui.html)
+>
+> Login de demonstração: CNPJ `98765432000110` · `admin@demo.com` · `demo12345` (fisioterapeuta: `fisio@demo.com`). A API roda no plano free do Render e pode levar ~50 s para acordar na primeira requisição.
+
 **Stack:** React 19, TypeScript, Vite, TanStack Query, React Router, Tailwind CSS 4.
 
 ## Funcionalidades
