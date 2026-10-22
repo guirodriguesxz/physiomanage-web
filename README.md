@@ -1,4 +1,5 @@
 # PhysioManage Web
+[![CI](https://github.com/guirodriguesxz/physiomanage-web/actions/workflows/ci.yml/badge.svg)](https://github.com/guirodriguesxz/physiomanage-web/actions/workflows/ci.yml)
 
 Front-end do [PhysioManage](https://github.com/guirodriguesxz/physiomanage), um SaaS multi-tenant para clínicas de fisioterapia.
 
